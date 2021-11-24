@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_Christmas-movies/static/css/main.0ae0552f.chunk.css",
+    "main.js": "/React_Christmas-movies/static/js/main.189f89ed.chunk.js",
+    "main.js.map": "/React_Christmas-movies/static/js/main.189f89ed.chunk.js.map",
+    "runtime-main.js": "/React_Christmas-movies/static/js/runtime-main.1697ed0c.js",
+    "runtime-main.js.map": "/React_Christmas-movies/static/js/runtime-main.1697ed0c.js.map",
+    "static/js/2.9b1706ec.chunk.js": "/React_Christmas-movies/static/js/2.9b1706ec.chunk.js",
+    "static/js/2.9b1706ec.chunk.js.map": "/React_Christmas-movies/static/js/2.9b1706ec.chunk.js.map",
+    "index.html": "/React_Christmas-movies/index.html",
+    "static/css/main.0ae0552f.chunk.css.map": "/React_Christmas-movies/static/css/main.0ae0552f.chunk.css.map",
+    "static/js/2.9b1706ec.chunk.js.LICENSE.txt": "/React_Christmas-movies/static/js/2.9b1706ec.chunk.js.LICENSE.txt",
+    "static/media/harry.287b0630.jpg": "/React_Christmas-movies/static/media/harry.287b0630.jpg",
+    "static/media/romantic.e638f38f.jpg": "/React_Christmas-movies/static/media/romantic.e638f38f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1697ed0c.js",
+    "static/js/2.9b1706ec.chunk.js",
+    "static/css/main.0ae0552f.chunk.css",
+    "static/js/main.189f89ed.chunk.js"
+  ]
+}
